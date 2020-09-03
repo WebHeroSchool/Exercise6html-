@@ -1,0 +1,18 @@
+header{
+  background:#8FBC8F;
+}
+nav{
+  background:#EEE8AA;
+}
+section{
+  background:#D3D3D3;
+}
+article{
+  border: dashed 2px #000;
+}
+aside{
+  border: dashed 2px #B22222;
+}
+footer{
+  background:#8FBC8F;
+}
