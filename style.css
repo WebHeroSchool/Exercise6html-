@@ -1,18 +1,44 @@
-header{
-  background:#8FBC8F;
+header {
+    background: #8FBC8F;
+    text-align: center;
 }
-nav{
-  background:#EEE8AA;
+
+nav {
+    background: white;
 }
-section{
-  background:#D3D3D3;
+
+.navig {
+    color: #8FBC8F;
+    display: inline-block;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    background-color: white;
+    width: 33%;
+    height: 70px;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    line-height: 55px;
+    transition-duration: 0.5s;
 }
-article{
-  border: dashed 2px #000;
+
+section {
+    background: #D3D3D3;
 }
-aside{
-  border: dashed 2px #B22222;
+
+article {
+    border: dashed 2px #000;
 }
-footer{
-  background:#8FBC8F;
+
+aside {
+    border: dashed 2px #B22222;
+}
+
+q {
+    quotes: "\201C""\201D";
+    /* Вид кавычек для английского языка */
+}
+
+footer {
+    background: #8FBC8F;
 }
