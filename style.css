@@ -1,0 +1,44 @@
+header {
+    background: #8FBC8F;
+    text-align: center;
+}
+
+nav {
+    background: white;
+}
+
+.navig {
+    color: #8FBC8F;
+    display: inline-block;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    background-color: white;
+    width: 33%;
+    height: 70px;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    line-height: 55px;
+    transition-duration: 0.5s;
+}
+
+section {
+    background: #D3D3D3;
+}
+
+article {
+    border: dashed 2px #000;
+}
+
+aside {
+    border: dashed 2px #B22222;
+}
+
+q {
+    quotes: "\201C""\201D";
+    /* Вид кавычек для английского языка */
+}
+
+footer {
+    background: #8FBC8F;
+}
